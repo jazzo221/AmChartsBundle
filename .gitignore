@@ -5,4 +5,5 @@ php-cs-fixer.phar
 
 vendor
 
-*.iml
+.idea
+/composer.lock
