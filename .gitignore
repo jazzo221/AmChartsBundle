@@ -6,4 +6,3 @@ php-cs-fixer.phar
 vendor
 
 .idea
-/composer.lock
